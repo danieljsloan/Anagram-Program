@@ -1,0 +1,9 @@
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\bin\Debug\Anagram Program.exe.config
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\bin\Debug\Anagram Program.exe
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\bin\Debug\Anagram Program.pdb
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram Program.csprojResolveAssemblyReference.cache
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram_Program.Form1.resources
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram_Program.Properties.Resources.resources
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram Program.csproj.GenerateResource.Cache
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram Program.exe
+c:\users\feasant\documents\visual studio 2015\Projects\Anagram Program\Anagram Program\obj\Debug\Anagram Program.pdb
