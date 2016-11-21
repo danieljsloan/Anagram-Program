@@ -45,7 +45,6 @@ namespace Anagram_Program
                 string NewStrTB1 = new string(StrTB1);
                 string NewStrTB2 = new string(StrTB2);
 
-                label4.Text = NewStrTB1;
 
                 if (NewStrTB1 == NewStrTB2)
                 {
